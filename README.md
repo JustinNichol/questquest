@@ -2,6 +2,8 @@
 
 This is the culmination of several years of work creating one of the largest collections of free and open source art available anywhere. Each character includes a .png and either a .kra or .xcf allowing them to be open in Krita or Gnu Image Manipulation program. Note that this project is closed, I will not be adding further characters to it unless commissioned to do so by a third party.
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 
 # Monsters Presently Available:
 Abyssal Vestige<br />
