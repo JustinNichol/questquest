@@ -5,99 +5,99 @@ This is the culmination of several years of work creating one of the largest col
 
 
 # Monsters Presently Available:
-Abyssal Vestige
-Air Elemental
-Banshee
-Bone Golem
-Cabalist Nun
-Catkin Warlock
-Centaur
-Chaos Spawn
-Crystal Golem
-Dark Apprentice
-Deep Elf Assassin
-Deep Elf Ranger
-Deep Elf Warrior
-Deep Elf Wizard
-Deep Spawn
-Demilich
-Devilkin
-Dogkin Hunter
-Doppelganger
-Dragonkin Evoker
-Dragonkin Knight
-Dragon Whelp
-Drake
-Draugr
-Earth Elemental
-Fire ELemental
-Frogling
-Ghoul
-Giant Spider
-Goblin
-Goblin Boomer
-Goblin Hermit
-Goblin Runts
-Goblin Scout
-Gobling Veteran
-Gorgoth
-Hag
-Hellion
-Hellion Heresiarch
-Imp
-Medusa
-Merfolk
-Minotaur
-Naga
-Ooze
-Orc
-Orcish Berserker
-Plague Zombie
-Planar Adept
-Ratling
-Sanctom Guardian
-Skeleton
-Sky Giant
-Star Elemental
-Treefolk
-Water Elemental
-Werewolf Cub
-Wight
-Wraith
-Zombie
+Abyssal Vestige<br />
+Air Elemental<br />
+Banshee<br />
+Bone Golem<br />
+Cabalist Nun<br />
+Catkin Warlock<br />
+Centaur<br />
+Chaos Spawn<br />
+Crystal Golem<br />
+Dark Apprentice<br />
+Deep Elf Assassin<br />
+Deep Elf Ranger<br />
+Deep Elf Warrior<br />
+Deep Elf Wizard<br />
+Deep Spawn<br />
+Demilich<br />
+Devilkin<br />
+Dogkin Hunter<br />
+Doppelganger<br />
+Dragonkin Evoker<br />
+Dragonkin Knight<br />
+Dragon Whelp<br />
+Drake<br />
+Draugr<br />
+Earth Elemental<br />
+Fire ELemental<br />
+Frogling<br />
+Ghoul<br />
+Giant Spider<br />
+Goblin<br />
+Goblin Boomer<br />
+Goblin Hermit<br />
+Goblin Runts<br />
+Goblin Scout<br />
+Gobling Veteran<br />
+Gorgoth<br />
+Hag<br />
+Hellion<br />
+Hellion Heresiarch<br />
+Imp<br />
+Medusa<br />
+Merfolk<br />
+Minotaur<br />
+Naga<br />
+Ooze<br />
+Orc<br />
+Orcish Berserker<br />
+Plague Zombie<br />
+Planar Adept<br />
+Ratling<br />
+Sanctom Guardian<br />
+Skeleton<br />
+Sky Giant<br />
+Star Elemental<br />
+Treefolk<br />
+Water Elemental<br />
+Werewolf Cub<br />
+Wight<br />
+Wraith<br />
+Zombie<br />
 
 # Bosses Presently Available
-Cinder Dragon
-Defiled Spriggan
-Goblin Big Boss
-Hag Matriarch
-Inevitable
-Lich
-Nightmother
-Vampire
-Void Elemental
-Witchking
+Cinder Dragon<br />
+Defiled Spriggan<br />
+Goblin Big Boss<br />
+Hag Matriarch<br />
+Inevitable<br />
+Lich<br />
+Nightmother<br />
+Vampire<br />
+Void Elemental<br />
+Witchking<br />
 
-# Heroes Presently Available
-Artificer
-Assassin
-Barbarian
-Bard
-Cleric
-Druid
-Monk
-Paladin
-Ranger
-Rogue
-Warlock
-Warlord
-Warrior
-Wizard
+# Heroes Presently Available<br />
+Artificer<br />
+Assassin<br />
+Barbarian<br />
+Bard<br />
+Cleric<br />
+Druid<br />
+Monk<br />
+Paladin<br />
+Ranger<br />
+Rogue<br />
+Warlock<br />
+Warlord<br />
+Warrior<br />
+Wizard<br />
 
 # NPC's Presently Available
-Adevnturer
-Dwarf
+Adevnturer<br />
+Dwarf<br />
 
 # Still to be created:
-Giant
-Vampire Spawn
+Giant<br />
+Vampire Spawn<br />
