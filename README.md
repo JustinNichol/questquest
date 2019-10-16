@@ -49,7 +49,6 @@ Ooze<br />
 Orc<br />
 Orcish Berserker<br />
 Plague Zombie<br />
-Planar Adept<br />
 Ratling<br />
 Skeleton<br />
 Treefolk<br />
@@ -93,6 +92,7 @@ Warlord<br />
 Cinder Dragon<br />
 Inevitable<br />
 Drake<br />
+Planar Adept<br />
 Sky Giant<br />
 Giant<br />
 Vampire Spawn<br />
