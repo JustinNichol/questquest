@@ -1,5 +1,4 @@
 # Questquest
-Questquest Characters
 
 This is the culmination of several years of work creating one of the largest collections of free and open source art available anywhere. Each character includes a .png and either a .kra or .xcf allowing them to be open in Krita or Gnu Image Manipulation program. Note that this project is closed, I will not be adding further characters to it unless commissioned to do so by a third party.
 
