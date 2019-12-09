@@ -27,11 +27,13 @@ Doppelganger<br />
 Dragonkin Evoker<br />
 Dragonkin Knight<br />
 Dragon Whelp<br />
+Drake<br />
 Draugr<br />
 Earth Elemental<br />
 Fire ELemental<br />
 Frogling<br />
 Ghoul<br />
+Giant<br />
 Giant Spider<br />
 Goblin<br />
 Goblin Boomer<br />
@@ -44,6 +46,7 @@ Hag<br />
 Hellion<br />
 Hellion Heresiarch<br />
 Imp<br />
+Medusa<br />
 Merfolk<br />
 Minotaur<br />
 Naga<br />
@@ -51,8 +54,12 @@ Ooze<br />
 Orc<br />
 Orcish Berserker<br />
 Plague Zombie<br />
+Planar Adept<br />
 Ratling<br />
+Sanctum Guardian<br />
 Skeleton<br />
+Sky Giant<br />
+Star Elemental<br />
 Treefolk<br />
 Water Elemental<br />
 Werewolf Cub<br />
@@ -61,23 +68,32 @@ Wraith<br />
 Zombie<br />
 
 # Bosses Presently Available
+Cinder Dragon<br />
 Defiled Spriggan<br />
 Goblin Big Boss<br />
 Hag Matriarch<br />
+Inevitable<br />
 Lich<br />
 Nightmother<br />
 Vampire<br />
+Vampire Spawn<br />
 Void Elemental<br />
 Witchking<br />
 
 # Heroes Presently Available<br />
+Artificer<br />
+Assassin<br />
 Barbarian<br />
 Bard<br />
 Cleric<br />
+Dogkin Hunter<br />
+Druid<br />
+Monk<br />
 Paladin<br />
 Ranger<br />
 Rogue<br />
 Warlock<br />
+Warlord<br />
 Warrior<br />
 Wizard<br />
 
@@ -85,20 +101,4 @@ Wizard<br />
 Adevnturer<br />
 Dwarf<br />
 
-# Still to be release:
-Artificer<br />
-Assassin<br />
-Druid<br />
-Monk<br />
-Warlord<br />
-Cinder Dragon<br />
-Inevitable<br />
-Drake<br />
-Planar Adept<br />
-Sky Giant<br />
-Giant<br />
-Vampire Spawn<br />
-Dogkin Hunter<br />
-Medusa<br />
-Sanctum Guardian<br />
-Star Elemental<br />
+
